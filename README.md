@@ -1,5 +1,5 @@
 #Getting and Cleaning data
-###Author:Arpit Chaudhary
+#####Author:Arpit Chaudhary
 
 This Repository contains the script(run_analysis.R) that does all what is needed for the project.
 The script takes the dataset provided and makes all the required processing required. no extra processing is required after/before the script.
