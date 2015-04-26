@@ -5,6 +5,8 @@ dataset2.txt on the other hand contains their average value grouped by the subje
 
 Camel case is used in variables to make the variables more readable without increasing the length. "." is also used to seperate different parts of the information about the variable name. This makes the variable names to be more readable and being small at the same time.
 
+These readings are raw data from accelerometer and gyroscope of the phone and there were no units provided in the original dataset and so makes me incapable to define units of these readings here.
+
 
 subject                      :Subject Id                                                                     
 activity                     :Activity done while data was recorded                                          
