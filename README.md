@@ -8,14 +8,15 @@ The script requires to be placed inside the input dataset directory such that fe
 It also requires train/subject_train.txt, train/X_train.txt, train/y_train.txt, test/subject_test.txt, test/X_test.txt, test/y_test.txt.
 
 Output of the script is provided in 2 files:
-	*dataset1.txt
-	*dataset2.txt
+
+* dataset1.txt
+* dataset2.txt
 	
 dataset1.txt provides output dataset as a result of processing done till step 4 of the project description.
 dataset2.txt is the final output dataset that is also submitted as a result for peer review.
 
 ##To run the script:
-*Set the working directory to where the script and the dataset is present.
-*Run run_analysis.R.
+* Set the working directory to where the script and the dataset is present.
+* Run run_analysis.R.
 
 NOTE: The output dataset submitted for review was an output of this script.
