@@ -3,6 +3,8 @@ This file explains all the variables that forms the output from the script.
 dataset1.txt contains all these values as asked in step 4 of project description.
 dataset2.txt on the other hand contains their average value grouped by the subject and the activity. Though the dataset shows variable name as below but it should not be confused as the actual data as described below as it is the mean based on grouping according to subject and activity.
 
+Camel case is used in variables to make the variables more readable without increasing the length. "." is also used to seperate different parts of the information about the variable name. This makes the variable names to be more readable and being small at the same time.
+
 
 subject                      :Subject Id                                                                     
 activity                     :Activity done while data was recorded                                          
