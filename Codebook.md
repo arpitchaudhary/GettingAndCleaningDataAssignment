@@ -1,3 +1,5 @@
+NOTE:Openning this file in Notepad++ is recommended as it will be more readable and thus more easily understandable. This is because this file is in a fixed width file format.
+
 This file explains all the variables that forms the output from the script.
 
 dataset1.txt contains all these values as asked in step 4 of project description.
